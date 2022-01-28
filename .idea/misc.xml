@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplicationX/app/src/main/res/layout/activity_add_lists.xml" value="0.14375" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplicationX/app/src/main/res/layout/activity_file_helper.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplicationX/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplicationX/app/src/main/res/layout/activity_td.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplicationX/app/src/main/res/layout/addlists.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplicationX/app/src/main/res/layout/tdactivity.xml" value="0.4" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplicationX/app/src/main/res/layout/timer.xml" value="0.2658514492753623" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplicationX/app/src/main/res/layout/timeractivity.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
