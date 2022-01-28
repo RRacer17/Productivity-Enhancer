@@ -10,4 +10,4 @@ Our application will be be designed in a such a way that acts like a tracker to 
  a check on her/his progress without missing out anything.
  This app will be designed in every possible way to help out the
  user increase their productivity and efficiency throughout the day.
-A project I had done for a Hackathon
+A project I had done for a Hackathon with my friends
